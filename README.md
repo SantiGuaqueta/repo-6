@@ -323,3 +323,4 @@ para instalar paquetes *pip* se utiliza el comando `pip install "nombreDelPaquet
    ```pseudocode
    pip install pygame
    ```
+   .
