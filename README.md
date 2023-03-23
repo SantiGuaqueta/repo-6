@@ -278,4 +278,4 @@ print ("Los numeros ordenados de forma descendente son:" +str(od))
 print ("La potencia del número mayor elevado al menor es: " +str(pot))
 print ("La raíz cúbica del menor número es: " +str(r))
 ```
-Luego importamos cada una de las funciones que necesitamos desde el otro archivo esto con `from "elNombreDelArchivo" import "elNombreDeLaFuncion" `, y las llamamos en nuestro programa, también hacemos que el usuario digite los números que se utilizaran y se calcularan, para que finalmente el programa imprima cada una de las cosas que le pedimos anteriormente.
+Luego importamos cada una de las funciones que necesitamos desde el otro archivo esto con `from "elNombreDelArchivo" import "elNombreDeLaFuncion"`, y las llamamos en nuestro programa, también hacemos que el usuario digite los números que se utilizaran y se calcularan, para que finalmente el programa imprima cada una de las cosas que le pedimos anteriormente.
