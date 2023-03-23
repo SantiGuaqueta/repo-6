@@ -279,3 +279,47 @@ print ("La potencia del número mayor elevado al menor es: " +str(pot))
 print ("La raíz cúbica del menor número es: " +str(r))
 ```
 Luego importamos cada una de las funciones que necesitamos desde el otro archivo esto con `from "elNombreDelArchivo" import "elNombreDeLaFuncion"`, y las llamamos en nuestro programa, también hacemos que el usuario digite los números que se utilizaran y se calcularan, para que finalmente el programa imprima cada una de las cosas que le pedimos anteriormente.
+## 9. Consultar qué es y cómo funciona *pip* en python. 
+*pip*(Pip Installs Packages) es un gestor de paquetes que sirve para instalar, desisntalar y gestionar paquetes que no vienen incluidos en python. *pip* se instala autómaticamente desde python 3.4.
+para instalar paquetes *pip* se utiliza el comando `pip install "nombreDelPaquete`, para desinstalarlos es de la misma manera pero con la palabra uninstall de la siguiente forma `pip uninstall "nombreDelpaquete`, y para actualizar paquetes es de la siguiente manera `pip install upgrate "nombreDelPaquete"`.
+## 10. Hacer un listado de módulos populares para python que se puedan instalar com *pip* y consultar cómo instalarlos.
+1. Numpy: Para hacer cálculos numéricos y científicos avanzados en Python
+   ```pseudocode
+   pip install numpy
+   ```
+2. Pandas: Para análisis y manipulación de datos en Python.
+   ```pseudocode
+   pip install pandas
+   ```
+3. Matplotlib: Para visualización de datos en Python.
+   ```pseudocode
+   pip install matplotlib
+   ```
+4. Scikit-learn: para aprendizaje automático y minería de datos en Python.
+   ```pseudocode
+   pip install scikit-learn
+   ```
+5. TensorFlow: para aprendizaje profundo y redes neuronales en Python.
+   ```pseudocode
+   pip install tensorflow
+   ```
+6. Flask: para construir aplicaciones web en Python.
+   ```pseudocode
+   pip install flask
+   ```
+7. Django: para construir aplicaciones web de gran escala en Python.
+   ```pseudocode
+   pip install django
+   ```
+8. Requests: para hacer solicitudes HTTP en Python.
+   ```pseudocode
+   pip install requests
+   ```
+9. Pillow: para trabajar con imágenes en Python.
+   ```pseudocode
+   pip install pillow
+   ```
+10. Pygame: para crear juegos en Python.   
+   ```pseudocode
+   pip install pygame
+   ```
